@@ -8,7 +8,7 @@ author:
 #Features 
 
 GCC has been mapped to F2 the object file is immediately named the same thing as the source file.
-Color them is Gruvbox, stautus bar is airline, syntax highlighting on.
+Color theme is Gruvbox, stautus bar is airline, syntax highlighting on.
 Emmmet plugin.
 
 
